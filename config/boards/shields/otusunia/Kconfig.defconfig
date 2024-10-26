@@ -1,0 +1,5 @@
+config ZMK_KEYBOARD_NAME
+    default "otusunia"
+
+config SPI
+	default y
